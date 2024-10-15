@@ -1,397 +1,397 @@
-"Country","Query","Status","Match","Notes","ISO","Country.Name","WHO_Region"
-"Afghanistan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","AFG","Afghanistan","EMRO"
-"Afghanistan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","AFG","Afghanistan","EMRO"
-"Albania","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ALB","Albania","EURO"
-"Albania","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ALB","Albania","EURO"
-"Algeria","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","DZA","Algeria","AFRO"
-"Algeria","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","DZA","Algeria","AFRO"
-"Andorra","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","AND","Andorra","EURO"
-"Andorra","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","AND","Andorra","EURO"
-"Angola","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","AGO","Angola","AFRO"
-"Angola","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","AGO","Angola","AFRO"
-"Antigua and Barbuda","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ATG","Antigua and Barbuda","AMRO"
-"Antigua and Barbuda","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","No - Wrong Info","","ATG","Antigua and Barbuda","AMRO"
-"Argentina","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ARG","Argentina","AMRO"
-"Argentina","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ARG","Argentina","AMRO"
-"Armenia","1. Is there a law that requires routine childhood vaccination in ? ","New document identified - suggest excluding","No - Wrong Info","","ARM","Armenia","EURO"
-"Armenia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","ARM","Armenia","EURO"
-"Australia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","AUS","Australia","WPRO"
-"Australia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Correct Info - Beyond Scope","law only for state","AUS","Australia","WPRO"
-"Austria","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","AUT","Austria","EURO"
-"Austria","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","law only for certain workers","AUT","Austria","EURO"
-"Azerbaijan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","AZE","Azerbaijan","EURO"
-"Azerbaijan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","AZE","Azerbaijan","EURO"
-"Bahamas","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No - Wrong Info","","BHS","Bahamas","AMRO"
-"Bahamas","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","BHS","Bahamas","AMRO"
-"Bahrain","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","BHR","Bahrain","EMRO"
-"Bahrain","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BHR","Bahrain","EMRO"
-"Bangladesh","1. Is there a law that requires routine childhood vaccination in ? ","New document identified - suggest including","No - Provides More Info","","BGD","Bangladesh","SEARO"
-"Bangladesh","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","BGD","Bangladesh","SEARO"
-"Barbados","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BRB","Barbados","AMRO"
-"Barbados","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","BRB","Barbados","AMRO"
-"Belarus","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","BLR","Belarus","EURO"
-"Belarus","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","BLR","Belarus","EURO"
-"Belgium","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BEL","Belgium","EURO"
-"Belgium","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","BEL","Belgium","EURO"
-"Belize","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BLZ","Belize","AMRO"
-"Belize","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BLZ","Belize","AMRO"
-"Benin","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","BEN","Benin","AFRO"
-"Benin","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","BEN","Benin","AFRO"
-"Bhutan","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","BTN","Bhutan","SEARO"
-"Bhutan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","BTN","Bhutan","SEARO"
-"Bolivia (Plurinational State of)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No - Wrong Info","","BOL","Bolivia (Plurinational State of)","AMRO"
-"Bolivia (Plurinational State of)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","BOL","Bolivia (Plurinational State of)","AMRO"
-"Bosnia and Herzegovina","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BIH","Bosnia and Herzegovina","EURO"
-"Bosnia and Herzegovina","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BIH","Bosnia and Herzegovina","EURO"
-"Botswana","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BWA","Botswana","AFRO"
-"Botswana","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BWA","Botswana","AFRO"
-"Brazil","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BRA","Brazil","AMRO"
-"Brazil","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","Law only for covid","BRA","Brazil","AMRO"
-"Brunei Darussalam","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BRN","Brunei Darussalam","WPRO"
-"Brunei Darussalam","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BRN","Brunei Darussalam","WPRO"
-"Bulgaria","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BGR","Bulgaria","EURO"
-"Bulgaria","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BGR","Bulgaria","EURO"
-"Burkina Faso","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","BFA","Burkina Faso","AFRO"
-"Burkina Faso","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","BFA","Burkina Faso","AFRO"
-"Burundi","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","BDI","Burundi","AFRO"
-"Burundi","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","BDI","Burundi","AFRO"
-"Cabo Verde (Cape Verde)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CPV","Cabo Verde","AFRO"
-"Cabo Verde (Cape Verde)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CPV","Cabo Verde","AFRO"
-"Cambodia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","KHM","Cambodia","WPRO"
-"Cambodia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","KHM","Cambodia","WPRO"
-"Cameroon","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CMR","Cameroon","AFRO"
-"Cameroon","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CMR","Cameroon","AFRO"
-"Canada","1. Is there a law that requires routine childhood vaccination in ? ","New document identified - suggest excluding","Correct Info - Beyond Scope","","CAN","Canada","AMRO"
-"Canada","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CAN","Canada","AMRO"
-"Central African Republic (CAR)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CAF","Central African Republic","AFRO"
-"Central African Republic (CAR)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CAF","Central African Republic","AFRO"
-"Chad","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","TCD","Chad","AFRO"
-"Chad","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","TCD","Chad","AFRO"
-"Chile","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","CHL","Chile","AMRO"
-"Chile","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","CHL","Chile","AMRO"
-"China (People's Republic of China; PRC)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CHN","China","WPRO"
-"China (People's Republic of China; PRC)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CHN","China","WPRO"
-"Chinese Taipei (Taiwan; Republic of China; ROC)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","TWN",NA,NA
-"Chinese Taipei (Taiwan; Republic of China; ROC)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","TWN",NA,NA
-"Colombia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","COL","Colombia","AMRO"
-"Colombia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","COL","Colombia","AMRO"
-"Comoros","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","COM","Comoros","AFRO"
-"Comoros","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","COM","Comoros","AFRO"
-"Congo (Republic of the Congo)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","COG","Congo","AFRO"
-"Congo (Republic of the Congo)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","COG","Congo","AFRO"
-"Cook Islands","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","COK","Cook Islands","WPRO"
-"Cook Islands","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","COK","Cook Islands","WPRO"
-"Costa Rica","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","CRI","Costa Rica","AMRO"
-"Costa Rica","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","CRI","Costa Rica","AMRO"
-"Côte d'Ivoire (Ivory Coast)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CIV","Cote d'Ivoire","AFRO"
-"Côte d'Ivoire (Ivory Coast)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CIV","Cote d'Ivoire","AFRO"
-"Croatia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","HRV","Croatia","EURO"
-"Croatia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","HRV","Croatia","EURO"
-"Cuba","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CUB","Cuba","AMRO"
-"Cuba","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest including","No - Provides More Info","","CUB","Cuba","AMRO"
-"Curacao","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CUW",NA,NA
-"Curacao","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CUW",NA,NA
-"Cyprus","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CYP","Cyprus","EURO"
-"Cyprus","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","CYP","Cyprus","EURO"
-"Czechia (Czech Republic)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","CZE","Czechia","EURO"
-"Czechia (Czech Republic)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","CZE","Czechia","EURO"
-"Democratic Peoples Republic of Korea (North Korea; DPRK)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","PRK","Democratic People's Republic of Korea","SEARO"
-"Democratic Peoples Republic of Korea (North Korea; DPRK)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","PRK","Democratic People's Republic of Korea","SEARO"
-"Democratic Republic of the Congo (DRC)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","COD","Democratic Republic of the Congo","AFRO"
-"Democratic Republic of the Congo (DRC)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","COD","Democratic Republic of the Congo","AFRO"
-"Denmark","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","DNK","Denmark","EURO"
-"Denmark","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","DNK","Denmark","EURO"
-"Djibouti","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","DJI","Djibouti","EMRO"
-"Djibouti","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","DJI","Djibouti","EMRO"
-"Dominica","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","DMA","Dominica","AMRO"
-"Dominica","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","DMA","Dominica","AMRO"
-"Dominican Republic","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","DOM","Dominican Republic","AMRO"
-"Dominican Republic","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","DOM","Dominican Republic","AMRO"
-"Ecuador","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ECU","Ecuador","AMRO"
-"Ecuador","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ECU","Ecuador","AMRO"
-"Egypt","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","EGY","Egypt","EMRO"
-"Egypt","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","EGY","Egypt","EMRO"
-"El Salvador","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","SLV","El Salvador","AMRO"
-"El Salvador","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","SLV","El Salvador","AMRO"
-"Equatorial Guinea","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GNQ","Equatorial Guinea","AFRO"
-"Equatorial Guinea","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","GNQ","Equatorial Guinea","AFRO"
-"Eritrea","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ERI","Eritrea","AFRO"
-"Eritrea","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","ERI","Eritrea","AFRO"
-"Estonia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","EST","Estonia","EURO"
-"Estonia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","EST","Estonia","EURO"
-"Eswatini (Swaziland)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SWZ","Eswatini","AFRO"
-"Eswatini (Swaziland)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","SWZ","Eswatini","AFRO"
-"Ethiopia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ETH","Ethiopia","AFRO"
-"Ethiopia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","ETH","Ethiopia","AFRO"
-"Fiji","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","FJI","Fiji","WPRO"
-"Fiji","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","FJI","Fiji","WPRO"
-"Finland","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","FIN","Finland","EURO"
-"Finland","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","FIN","Finland","EURO"
-"France","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","FRA","France","EURO"
-"France","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","FRA","France","EURO"
-"Gabon","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GAB","Gabon","AFRO"
-"Gabon","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GAB","Gabon","AFRO"
-"Gambia (Republic of The)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GMB","Gambia","AFRO"
-"Gambia (Republic of The)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GMB","Gambia","AFRO"
-"Georgia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","GEO","Georgia","EURO"
-"Georgia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","GEO","Georgia","EURO"
-"Germany","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","DEU","Germany","EURO"
-"Germany","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest including","No - Provides More Info","","DEU","Germany","EURO"
-"Germany","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","DEU","Germany","EURO"
-"Germany","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","DEU","Germany","EURO"
-"Ghana","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GHA","Ghana","AFRO"
-"Ghana","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","GHA","Ghana","AFRO"
-"Greece","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GRC","Greece","EURO"
-"Greece","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","GRC","Greece","EURO"
-"Grenada","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","GRD","Grenada","AMRO"
-"Grenada","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GRD","Grenada","AMRO"
-"Guatemala","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GTM","Guatemala","AMRO"
-"Guatemala","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GTM","Guatemala","AMRO"
-"Guinea","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","GIN","Guinea","AFRO"
-"Guinea","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","GIN","Guinea","AFRO"
-"Guinea Bissau","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GNB","Guinea-Bissau","AFRO"
-"Guinea Bissau","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GNB","Guinea-Bissau","AFRO"
-"Guyana","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","GUY","Guyana","AMRO"
-"Guyana","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GUY","Guyana","AMRO"
-"Haiti","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","HTI","Haiti","AMRO"
-"Haiti","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","HTI","Haiti","AMRO"
-"Holy See (Vatican City)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","VAT",NA,NA
-"Holy See (Vatican City)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","VAT",NA,NA
-"Honduras","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","HND","Honduras","AMRO"
-"Honduras","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","HND","Honduras","AMRO"
-"Hungary","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","HUN","Hungary","EURO"
-"Hungary","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","HUN","Hungary","EURO"
-"Iceland","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ISL","Iceland","EURO"
-"Iceland","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","ISL","Iceland","EURO"
-"India","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","IND","India","SEARO"
-"India","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","IND","India","SEARO"
-"Indonesia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","IDN","Indonesia","SEARO"
-"Indonesia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","only for covid","IDN","Indonesia","SEARO"
-"Iran (Islamic Republic of)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","IRN","Iran (Islamic Republic of)","EMRO"
-"Iran (Islamic Republic of)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","IRN","Iran (Islamic Republic of)","EMRO"
-"Iraq","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","IRQ","Iraq","EMRO"
-"Iraq","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","IRQ","Iraq","EMRO"
-"Ireland","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","IRL","Ireland","EURO"
-"Ireland","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","IRL","Ireland","EURO"
-"Israel","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ISR","Israel","EURO"
-"Israel","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ISR","Israel","EURO"
-"Italy","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ITA","Italy","EURO"
-"Italy","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","covid only","ITA","Italy","EURO"
-"Jamaica","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","JAM","Jamaica","AMRO"
-"Jamaica","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","JAM","Jamaica","AMRO"
-"Japan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","JPN","Japan","WPRO"
-"Japan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No - Wrong Info","This is an example where the computer can't tell that temporary vaccines in practice mean emergency mandatory vaccines. A human needs to interpret it, so it gives you the wrong answer, but the right info","JPN","Japan","WPRO"
-"Jordan","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","JOR","Jordan","EMRO"
-"Jordan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","JOR","Jordan","EMRO"
-"Kazakhstan","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","It only gives the most relevant policies, rather than all of the relevant documents. Not comprehensive","KAZ","Kazakhstan","EURO"
-"Kazakhstan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","KAZ","Kazakhstan","EURO"
-"Kenya","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","KEN","Kenya","AFRO"
-"Kenya","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","KEN","Kenya","AFRO"
-"Kiribati","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","KIR","Kiribati","WPRO"
-"Kiribati","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","KIR","Kiribati","WPRO"
-"Kuwait","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","KWT","Kuwait","EMRO"
-"Kuwait","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","KWT","Kuwait","EMRO"
-"Kyrgyzstan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","KGZ","Kyrgyzstan","EURO"
-"Kyrgyzstan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","KGZ","Kyrgyzstan","EURO"
-"Lao People's Democratic Republic (Laos; Lao PDR)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LAO","Lao People's Democratic Republic","WPRO"
-"Lao People's Democratic Republic (Laos; Lao PDR)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","LAO","Lao People's Democratic Republic","WPRO"
-"Latvia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LVA","Latvia","EURO"
-"Latvia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","LVA","Latvia","EURO"
-"Lebanon","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","LBN","Lebanon","EMRO"
-"Lebanon","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","LBN","Lebanon","EMRO"
-"Lesotho","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LSO","Lesotho","AFRO"
-"Lesotho","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","LSO","Lesotho","AFRO"
-"Liberia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","LBR","Liberia","AFRO"
-"Liberia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","see above","LBR","Liberia","AFRO"
-"Libya","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LBY","Libya","EMRO"
-"Libya","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","LBY","Libya","EMRO"
-"Liechtenstein","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","LIE","Liechtenstein","EURO"
-"Liechtenstein","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","LIE","Liechtenstein","EURO"
-"Lithuania","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","LTU","Lithuania","EURO"
-"Lithuania","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","LTU","Lithuania","EURO"
-"Luxembourg","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","LUX","Luxembourg","EURO"
-"Luxembourg","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","LUX","Luxembourg","EURO"
-"Madagascar","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","MDG","Madagascar","AFRO"
-"Madagascar","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MDG","Madagascar","AFRO"
-"Malawi","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MWI","Malawi","AFRO"
-"Malawi","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MWI","Malawi","AFRO"
-"Malaysia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MYS","Malaysia","WPRO"
-"Malaysia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","MYS","Malaysia","WPRO"
-"Maldives","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MDV","Maldives","SEARO"
-"Maldives","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MDV","Maldives","SEARO"
-"Mali","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","MLI","Mali","AFRO"
-"Mali","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","MLI","Mali","AFRO"
-"Malta","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MLT","Malta","EURO"
-"Malta","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MLT","Malta","EURO"
-"Marshall Islands","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MHL","Marshall Islands","WPRO"
-"Marshall Islands","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MHL","Marshall Islands","WPRO"
-"Mauritania","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MRT","Mauritania","AFRO"
-"Mauritania","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MRT","Mauritania","AFRO"
-"Mauritius","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MUS","Mauritius","AFRO"
-"Mauritius","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MUS","Mauritius","AFRO"
-"Mexico","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MEX","Mexico","AMRO"
-"Mexico","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MEX","Mexico","AMRO"
-"Micronesia (Federated States of Micronesia)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","FSM","Micronesia (Federated States of)","WPRO"
-"Micronesia (Federated States of Micronesia)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","FSM","Micronesia (Federated States of)","WPRO"
-"Monaco","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MCO","Monaco","EURO"
-"Monaco","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MCO","Monaco","EURO"
-"Mongolia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MNG","Mongolia","WPRO"
-"Mongolia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MNG","Mongolia","WPRO"
-"Montenegro","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","MNE","Montenegro","EURO"
-"Montenegro","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","MNE","Montenegro","EURO"
-"Morocco","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MAR","Morocco","EMRO"
-"Morocco","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","MAR","Morocco","EMRO"
-"Mozambique","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MOZ","Mozambique","AFRO"
-"Mozambique","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MOZ","Mozambique","AFRO"
-"Myanmar (Burma)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","MMR","Myanmar","SEARO"
-"Myanmar (Burma)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MMR","Myanmar","SEARO"
-"Namibia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NAM","Namibia","AFRO"
-"Namibia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NAM","Namibia","AFRO"
-"Nauru","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NRU","Nauru","WPRO"
-"Nauru","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NRU","Nauru","WPRO"
-"Nepal","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NPL","Nepal","SEARO"
-"Nepal","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NPL","Nepal","SEARO"
-"Netherlands","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NLD","Netherlands","EURO"
-"Netherlands","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NLD","Netherlands","EURO"
-"New Zealand","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NZL","New Zealand","WPRO"
-"New Zealand","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NZL","New Zealand","WPRO"
-"Nicaragua","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","NIC","Nicaragua","AMRO"
-"Nicaragua","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","NIC","Nicaragua","AMRO"
-"Niger","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NER","Niger","AFRO"
-"Niger","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NER","Niger","AFRO"
-"Nigeria","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NGA","Nigeria","AFRO"
-"Nigeria","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Correct Info - Beyond Scope","State level","NGA","Nigeria","AFRO"
-"Niue","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NIU","Niue","WPRO"
-"Niue","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","NIU","Niue","WPRO"
-"North Macedonia (Macedonia; FYROM)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MKD","North Macedonia","EURO"
-"North Macedonia (Macedonia; FYROM)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MKD","North Macedonia","EURO"
-"Norway","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","NOR","Norway","EURO"
-"Norway","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest including","No - Provides More Info","","NOR","Norway","EURO"
-"Oman","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","OMN","Oman","EMRO"
-"Oman","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","OMN","Oman","EMRO"
-"Pakistan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","PAK","Pakistan","EMRO"
-"Pakistan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Correct Info - Beyond Scope","province level laws","PAK","Pakistan","EMRO"
-"Palau","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","PLW","Palau","WPRO"
-"Palau","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","PLW","Palau","WPRO"
-"Panama","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","PAN","Panama","AMRO"
-"Panama","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","PAN","Panama","AMRO"
-"Papua New Guinea","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","PNG","Papua New Guinea","WPRO"
-"Papua New Guinea","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","PNG","Papua New Guinea","WPRO"
-"Paraguay","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","PRY","Paraguay","AMRO"
-"Paraguay","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","PRY","Paraguay","AMRO"
-"Peru","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","PER","Peru","AMRO"
-"Peru","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","PER","Peru","AMRO"
-"Philippines","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","PHL","Philippines","WPRO"
-"Philippines","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","PHL","Philippines","WPRO"
-"Poland","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","POL","Poland","EURO"
-"Poland","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","POL","Poland","EURO"
-"Portugal","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","PRT","Portugal","EURO"
-"Portugal","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","PRT","Portugal","EURO"
-"Qatar","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","QAT","Qatar","EMRO"
-"Qatar","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","QAT","Qatar","EMRO"
-"Republic of Korea (South Korea; ROK)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","Information is out of date - law last updated in December 2023, refers to information from the 2015 update. Very confusing at first","KOR","Republic of Korea","WPRO"
-"Republic of Korea (South Korea; ROK)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","KOR","Republic of Korea","WPRO"
-"Republic of Moldova","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","MDA","Republic of Moldova","EURO"
-"Republic of Moldova","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","MDA","Republic of Moldova","EURO"
-"Romania","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","ROU","Romania","EURO"
-"Romania","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ROU","Romania","EURO"
-"Russian Federation","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","RUS","Russian Federation","EURO"
-"Russian Federation","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Correct Info - Beyond Scope","Theoretically, individual regional authorities could mandate one, but it hasn't been done and there isn't a federal law stating this, just some plans for covid","RUS","Russian Federation","EURO"
-"Rwanda","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","RWA","Rwanda","AFRO"
-"Rwanda","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","RWA","Rwanda","AFRO"
-"Saint Kitts and Nevis (St Kitts and Nevis)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","KNA","Saint Kitts and Nevis","AMRO"
-"Saint Kitts and Nevis (St Kitts and Nevis)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","KNA","Saint Kitts and Nevis","AMRO"
-"Saint Lucia (St Lucia)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LCA","Saint Lucia","AMRO"
-"Saint Lucia (St Lucia)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","LCA","Saint Lucia","AMRO"
-"Saint Vincent and the Grenadines (St Vincent and the Grenadines)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","VCT","Saint Vincent and the Grenadines","AMRO"
-"Saint Vincent and the Grenadines (St Vincent and the Grenadines)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","VCT","Saint Vincent and the Grenadines","AMRO"
-"Samoa","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No - Wrong Info","Incorrect name - provides the nickname for the law, which makes it impossible to find ","WSM","Samoa","WPRO"
-"Samoa","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","WSM","Samoa","WPRO"
-"San Marino","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","SMR","San Marino","EURO"
-"San Marino","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No - Wrong Info","","SMR","San Marino","EURO"
-"São Tomé and Príncipe","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","STP","Sao Tome and Principe","AFRO"
-"São Tomé and Príncipe","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","STP","Sao Tome and Principe","AFRO"
-"Saudi Arabia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","SAU","Saudi Arabia","EMRO"
-"Saudi Arabia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SAU","Saudi Arabia","EMRO"
-"Senegal","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SEN","Senegal","AFRO"
-"Senegal","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SEN","Senegal","AFRO"
-"Serbia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","SRB","Serbia","EURO"
-"Serbia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","SRB","Serbia","EURO"
-"Seychelles","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SYC","Seychelles","AFRO"
-"Seychelles","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No - Provides More Info","","SYC","Seychelles","AFRO"
-"Sierra Leone","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SLE","Sierra Leone","AFRO"
-"Sierra Leone","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","SLE","Sierra Leone","AFRO"
-"Singapore","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","SGP","Singapore","WPRO"
-"Singapore","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","SGP","Singapore","WPRO"
-"Slovakia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","SVK","Slovakia","EURO"
-"Slovakia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","SVK","Slovakia","EURO"
-"Solomon Islands","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SLB","Solomon Islands","WPRO"
-"Solomon Islands","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SLB","Solomon Islands","WPRO"
-"Somalia","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Correct Info - Beyond Scope","","SOM","Somalia","EMRO"
-"Somalia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SOM","Somalia","EMRO"
-"South Africa","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ZAF","South Africa","AFRO"
-"South Africa","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ZAF","South Africa","AFRO"
-"South Sudan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SSD","South Sudan","AFRO"
-"South Sudan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SSD","South Sudan","AFRO"
-"Spain","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","ESP","Spain","EURO"
-"Spain","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ESP","Spain","EURO"
-"Sri Lanka","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","LKA","Sri Lanka","SEARO"
-"Sri Lanka","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No - Wrong Info","","LKA","Sri Lanka","SEARO"
-"Sudan","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","No- Misses Information","","SDN","Sudan","EMRO"
-"Sudan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","SDN","Sudan","EMRO"
-"Suriname","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SUR","Suriname","AMRO"
-"Suriname","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SUR","Suriname","AMRO"
-"Sweden","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SWE","Sweden","EURO"
-"Sweden","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SWE","Sweden","EURO"
-"Switzerland","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","CHE","Switzerland","EURO"
-"Switzerland","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","Mandatory vaccinations only for certain occupations","CHE","Switzerland","EURO"
-"Syrian Arab Republic (Syria)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","SYR","Syrian Arab Republic","EMRO"
-"Syrian Arab Republic (Syria)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","SYR","Syrian Arab Republic","EMRO"
-"Tajikistan","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","TJK","Tajikistan","EURO"
-"Tajikistan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","TJK","Tajikistan","EURO"
-"Thailand","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","THA","Thailand","SEARO"
-"Thailand","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","THA","Thailand","SEARO"
-"Timor-Leste","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","TLS","Timor-Leste","SEARO"
-"Timor-Leste","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","TLS","Timor-Leste","SEARO"
-"Togo","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","TGO","Togo","AFRO"
-"Togo","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","TGO","Togo","AFRO"
-"Tonga","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No - Wrong Info","","TON","Tonga","WPRO"
-"Tonga","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","TON","Tonga","WPRO"
-"Trinidad and Tobago","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","TTO","Trinidad and Tobago","AMRO"
-"Trinidad and Tobago","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","TTO","Trinidad and Tobago","AMRO"
-"Tunisia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","TUN","Tunisia","EMRO"
-"Tunisia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","Correct Info - Beyond Scope","decree only for covid","TUN","Tunisia","EMRO"
-"Türkiye (Turkey)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","TUR","Turkey","EURO"
-"Türkiye (Turkey)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","New document identified - suggest excluding","No - Wrong Info","States that a repealed law on Smallpox is still enforceable","TUR","Turkey","EURO"
-"Turkmenistan","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","TKM","Turkmenistan","EURO"
-"Turkmenistan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","TKM","Turkmenistan","EURO"
-"Tuvalu","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","TUV","Tuvalu","WPRO"
-"Tuvalu","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","TUV","Tuvalu","WPRO"
-"Uganda","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","UGA","Uganda","AFRO"
-"Uganda","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","UGA","Uganda","AFRO"
-"Ukraine","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","UKR","Ukraine","EURO"
-"Ukraine","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","UKR","Ukraine","EURO"
-"United Arab Emirates (UAE)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ARE","United Arab Emirates","EMRO"
-"United Arab Emirates (UAE)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No - Wrong Info","","ARE","United Arab Emirates","EMRO"
-"United Kingdom of Great Britain and Northern Ireland (UK)","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","GBR","United Kingdom of Great Britain and Northern Ireland","EURO"
-"United Kingdom of Great Britain and Northern Ireland (UK)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","GBR","United Kingdom of Great Britain and Northern Ireland","EURO"
-"United Republic of Tanzania","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","TZA","United Republic of Tanzania","AFRO"
-"United Republic of Tanzania","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","TZA","United Republic of Tanzania","AFRO"
-"United States of America (USA)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Correct Info - Beyond Scope","","USA","United States of America","AMRO"
-"United States of America (USA)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","Yes","","USA","United States of America","AMRO"
-"Uruguay","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","URY","Uruguay","AMRO"
-"Uruguay","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","URY","Uruguay","AMRO"
-"Uzbekistan","1. Is there a law that requires routine childhood vaccination in ? ","New document identified - suggest excluding","No - Wrong Info","","UZB","Uzbekistan","EURO"
-"Uzbekistan","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","UZB","Uzbekistan","EURO"
-"Vanuatu","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","VUT","Vanuatu","WPRO"
-"Vanuatu","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","VUT","Vanuatu","WPRO"
-"Venezuela (Bolivarian Republic of)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","VEN","Venezuela (Bolivarian Republic of)","AMRO"
-"Venezuela (Bolivarian Republic of)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","VEN","Venezuela (Bolivarian Republic of)","AMRO"
-"Viet Nam (Vietnam)","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","VNM","Viet Nam","WPRO"
-"Viet Nam (Vietnam)","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","VNM","Viet Nam","WPRO"
-"Yemen","1. Is there a law that requires routine childhood vaccination in ? ","No relevant documents identified","Yes","","YEM","Yemen","EMRO"
-"Yemen","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","No relevant documents identified","No- Misses Information","","YEM","Yemen","EMRO"
-"Zambia","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","No- Misses Information","","ZMB","Zambia","AFRO"
-"Zambia","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","No- Misses Information","","ZMB","Zambia","AFRO"
-"Zimbabwe","1. Is there a law that requires routine childhood vaccination in ? ","Identified document(s) already in Airtable","Yes","","ZWE","Zimbabwe","AFRO"
-"Zimbabwe","2. In the event of an emergency, can the government require a citizen to receive a vaccination in?","Identified document(s) already in Airtable","Yes","","ZWE","Zimbabwe","AFRO"
+Country,Query,Status,Match,Notes,ISO,Country.Name,WHO_Region
+Afghanistan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,AFG,Afghanistan,EMRO
+Afghanistan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,AFG,Afghanistan,EMRO
+Albania,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ALB,Albania,EURO
+Albania,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ALB,Albania,EURO
+Algeria,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,DZA,Algeria,AFRO
+Algeria,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,DZA,Algeria,AFRO
+Andorra,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,AND,Andorra,EURO
+Andorra,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,AND,Andorra,EURO
+Angola,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,AGO,Angola,AFRO
+Angola,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,AGO,Angola,AFRO
+Antigua and Barbuda,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ATG,Antigua and Barbuda,AMRO
+Antigua and Barbuda,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,,ATG,Antigua and Barbuda,AMRO
+Argentina,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ARG,Argentina,AMRO
+Argentina,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ARG,Argentina,AMRO
+Armenia,1. Is there a law that requires routine childhood vaccination in ? ,New document identified - suggest excluding,No: GAI Provides Incorrect Information,,ARM,Armenia,EURO
+Armenia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,ARM,Armenia,EURO
+Australia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,AUS,Australia,WPRO
+Australia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Provides Incorrect Information,law only for state,AUS,Australia,WPRO
+Austria,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,AUT,Austria,EURO
+Austria,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,law only for certain workers,AUT,Austria,EURO
+Azerbaijan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,AZE,Azerbaijan,EURO
+Azerbaijan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,AZE,Azerbaijan,EURO
+Bahamas,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,BHS,Bahamas,AMRO
+Bahamas,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,BHS,Bahamas,AMRO
+Bahrain,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,BHR,Bahrain,EMRO
+Bahrain,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BHR,Bahrain,EMRO
+Bangladesh,1. Is there a law that requires routine childhood vaccination in ? ,New document identified - suggest including,No: GAI Provides More Information,,BGD,Bangladesh,SEARO
+Bangladesh,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,BGD,Bangladesh,SEARO
+Barbados,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BRB,Barbados,AMRO
+Barbados,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,BRB,Barbados,AMRO
+Belarus,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,BLR,Belarus,EURO
+Belarus,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,BLR,Belarus,EURO
+Belgium,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BEL,Belgium,EURO
+Belgium,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,BEL,Belgium,EURO
+Belize,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BLZ,Belize,AMRO
+Belize,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BLZ,Belize,AMRO
+Benin,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,BEN,Benin,AFRO
+Benin,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,BEN,Benin,AFRO
+Bhutan,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,BTN,Bhutan,SEARO
+Bhutan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,BTN,Bhutan,SEARO
+Bolivia (Plurinational State of),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Provides Incorrect Information,,BOL,Bolivia (Plurinational State of),AMRO
+Bolivia (Plurinational State of),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,BOL,Bolivia (Plurinational State of),AMRO
+Bosnia and Herzegovina,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BIH,Bosnia and Herzegovina,EURO
+Bosnia and Herzegovina,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BIH,Bosnia and Herzegovina,EURO
+Botswana,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BWA,Botswana,AFRO
+Botswana,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BWA,Botswana,AFRO
+Brazil,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BRA,Brazil,AMRO
+Brazil,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,Law only for covid,BRA,Brazil,AMRO
+Brunei Darussalam,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BRN,Brunei Darussalam,WPRO
+Brunei Darussalam,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BRN,Brunei Darussalam,WPRO
+Bulgaria,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BGR,Bulgaria,EURO
+Bulgaria,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BGR,Bulgaria,EURO
+Burkina Faso,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,BFA,Burkina Faso,AFRO
+Burkina Faso,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,BFA,Burkina Faso,AFRO
+Burundi,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,BDI,Burundi,AFRO
+Burundi,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,BDI,Burundi,AFRO
+Cabo Verde (Cape Verde),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CPV,Cabo Verde,AFRO
+Cabo Verde (Cape Verde),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CPV,Cabo Verde,AFRO
+Cambodia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,KHM,Cambodia,WPRO
+Cambodia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,KHM,Cambodia,WPRO
+Cameroon,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CMR,Cameroon,AFRO
+Cameroon,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CMR,Cameroon,AFRO
+Canada,1. Is there a law that requires routine childhood vaccination in ? ,New document identified - suggest excluding,No: GAI Provides Incorrect Information,,CAN,Canada,AMRO
+Canada,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CAN,Canada,AMRO
+Central African Republic (CAR),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CAF,Central African Republic,AFRO
+Central African Republic (CAR),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CAF,Central African Republic,AFRO
+Chad,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,TCD,Chad,AFRO
+Chad,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,TCD,Chad,AFRO
+Chile,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,CHL,Chile,AMRO
+Chile,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,CHL,Chile,AMRO
+China (People's Republic of China; PRC),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CHN,China,WPRO
+China (People's Republic of China; PRC),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CHN,China,WPRO
+Chinese Taipei (Taiwan; Republic of China; ROC),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,TWN,NA,NA
+Chinese Taipei (Taiwan; Republic of China; ROC),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,TWN,NA,NA
+Colombia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,COL,Colombia,AMRO
+Colombia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,COL,Colombia,AMRO
+Comoros,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,COM,Comoros,AFRO
+Comoros,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,COM,Comoros,AFRO
+Congo (Republic of the Congo),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,COG,Congo,AFRO
+Congo (Republic of the Congo),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,COG,Congo,AFRO
+Cook Islands,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,COK,Cook Islands,WPRO
+Cook Islands,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,COK,Cook Islands,WPRO
+Costa Rica,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,CRI,Costa Rica,AMRO
+Costa Rica,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,CRI,Costa Rica,AMRO
+Côte d'Ivoire (Ivory Coast),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CIV,Cote d'Ivoire,AFRO
+Côte d'Ivoire (Ivory Coast),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CIV,Cote d'Ivoire,AFRO
+Croatia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,HRV,Croatia,EURO
+Croatia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,HRV,Croatia,EURO
+Cuba,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CUB,Cuba,AMRO
+Cuba,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest including,No: GAI Provides More Information,,CUB,Cuba,AMRO
+Curacao,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CUW,NA,NA
+Curacao,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CUW,NA,NA
+Cyprus,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CYP,Cyprus,EURO
+Cyprus,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,CYP,Cyprus,EURO
+Czechia (Czech Republic),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,CZE,Czechia,EURO
+Czechia (Czech Republic),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,CZE,Czechia,EURO
+Democratic Peoples Republic of Korea (North Korea; DPRK),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,PRK,Democratic People's Republic of Korea,SEARO
+Democratic Peoples Republic of Korea (North Korea; DPRK),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,PRK,Democratic People's Republic of Korea,SEARO
+Democratic Republic of the Congo (DRC),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,COD,Democratic Republic of the Congo,AFRO
+Democratic Republic of the Congo (DRC),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,COD,Democratic Republic of the Congo,AFRO
+Denmark,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,DNK,Denmark,EURO
+Denmark,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,DNK,Denmark,EURO
+Djibouti,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,DJI,Djibouti,EMRO
+Djibouti,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,DJI,Djibouti,EMRO
+Dominica,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,DMA,Dominica,AMRO
+Dominica,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,DMA,Dominica,AMRO
+Dominican Republic,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,DOM,Dominican Republic,AMRO
+Dominican Republic,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,DOM,Dominican Republic,AMRO
+Ecuador,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ECU,Ecuador,AMRO
+Ecuador,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ECU,Ecuador,AMRO
+Egypt,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,EGY,Egypt,EMRO
+Egypt,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,EGY,Egypt,EMRO
+El Salvador,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,SLV,El Salvador,AMRO
+El Salvador,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,SLV,El Salvador,AMRO
+Equatorial Guinea,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GNQ,Equatorial Guinea,AFRO
+Equatorial Guinea,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,GNQ,Equatorial Guinea,AFRO
+Eritrea,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ERI,Eritrea,AFRO
+Eritrea,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,ERI,Eritrea,AFRO
+Estonia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,EST,Estonia,EURO
+Estonia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,EST,Estonia,EURO
+Eswatini (Swaziland),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SWZ,Eswatini,AFRO
+Eswatini (Swaziland),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,SWZ,Eswatini,AFRO
+Ethiopia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ETH,Ethiopia,AFRO
+Ethiopia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,ETH,Ethiopia,AFRO
+Fiji,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,FJI,Fiji,WPRO
+Fiji,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,FJI,Fiji,WPRO
+Finland,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,FIN,Finland,EURO
+Finland,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,FIN,Finland,EURO
+France,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,FRA,France,EURO
+France,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,FRA,France,EURO
+Gabon,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GAB,Gabon,AFRO
+Gabon,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GAB,Gabon,AFRO
+Gambia (Republic of The),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GMB,Gambia,AFRO
+Gambia (Republic of The),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GMB,Gambia,AFRO
+Georgia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,GEO,Georgia,EURO
+Georgia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,GEO,Georgia,EURO
+Germany,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,DEU,Germany,EURO
+Germany,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest including,No: GAI Provides More Information,,DEU,Germany,EURO
+Germany,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,DEU,Germany,EURO
+Germany,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,DEU,Germany,EURO
+Ghana,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GHA,Ghana,AFRO
+Ghana,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,GHA,Ghana,AFRO
+Greece,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GRC,Greece,EURO
+Greece,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,GRC,Greece,EURO
+Grenada,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,GRD,Grenada,AMRO
+Grenada,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GRD,Grenada,AMRO
+Guatemala,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GTM,Guatemala,AMRO
+Guatemala,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GTM,Guatemala,AMRO
+Guinea,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,GIN,Guinea,AFRO
+Guinea,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,GIN,Guinea,AFRO
+Guinea Bissau,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GNB,Guinea-Bissau,AFRO
+Guinea Bissau,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GNB,Guinea-Bissau,AFRO
+Guyana,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,GUY,Guyana,AMRO
+Guyana,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GUY,Guyana,AMRO
+Haiti,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,HTI,Haiti,AMRO
+Haiti,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,HTI,Haiti,AMRO
+Holy See (Vatican City),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,VAT,NA,NA
+Holy See (Vatican City),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,VAT,NA,NA
+Honduras,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,HND,Honduras,AMRO
+Honduras,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,HND,Honduras,AMRO
+Hungary,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,HUN,Hungary,EURO
+Hungary,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,HUN,Hungary,EURO
+Iceland,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ISL,Iceland,EURO
+Iceland,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,ISL,Iceland,EURO
+India,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,IND,India,SEARO
+India,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,IND,India,SEARO
+Indonesia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,IDN,Indonesia,SEARO
+Indonesia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,only for covid,IDN,Indonesia,SEARO
+Iran (Islamic Republic of),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,IRN,Iran (Islamic Republic of),EMRO
+Iran (Islamic Republic of),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,IRN,Iran (Islamic Republic of),EMRO
+Iraq,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,IRQ,Iraq,EMRO
+Iraq,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,IRQ,Iraq,EMRO
+Ireland,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,IRL,Ireland,EURO
+Ireland,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,IRL,Ireland,EURO
+Israel,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ISR,Israel,EURO
+Israel,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ISR,Israel,EURO
+Italy,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ITA,Italy,EURO
+Italy,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,covid only,ITA,Italy,EURO
+Jamaica,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,JAM,Jamaica,AMRO
+Jamaica,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,JAM,Jamaica,AMRO
+Japan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,JPN,Japan,WPRO
+Japan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Provides Incorrect Information,"This is an example where the computer can't tell that temporary vaccines in practice mean emergency mandatory vaccines. A human needs to interpret it, so it gives you the wrong answer, but the right info",JPN,Japan,WPRO
+Jordan,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,JOR,Jordan,EMRO
+Jordan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,JOR,Jordan,EMRO
+Kazakhstan,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,"It only gives the most relevant policies, rather than all of the relevant documents. Not comprehensive",KAZ,Kazakhstan,EURO
+Kazakhstan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,KAZ,Kazakhstan,EURO
+Kenya,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,KEN,Kenya,AFRO
+Kenya,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,KEN,Kenya,AFRO
+Kiribati,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,KIR,Kiribati,WPRO
+Kiribati,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,KIR,Kiribati,WPRO
+Kuwait,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,KWT,Kuwait,EMRO
+Kuwait,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,KWT,Kuwait,EMRO
+Kyrgyzstan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,KGZ,Kyrgyzstan,EURO
+Kyrgyzstan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,KGZ,Kyrgyzstan,EURO
+Lao People's Democratic Republic (Laos; Lao PDR),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LAO,Lao People's Democratic Republic,WPRO
+Lao People's Democratic Republic (Laos; Lao PDR),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,LAO,Lao People's Democratic Republic,WPRO
+Latvia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LVA,Latvia,EURO
+Latvia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,LVA,Latvia,EURO
+Lebanon,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,LBN,Lebanon,EMRO
+Lebanon,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,LBN,Lebanon,EMRO
+Lesotho,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LSO,Lesotho,AFRO
+Lesotho,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,LSO,Lesotho,AFRO
+Liberia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,LBR,Liberia,AFRO
+Liberia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,see above,LBR,Liberia,AFRO
+Libya,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LBY,Libya,EMRO
+Libya,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,LBY,Libya,EMRO
+Liechtenstein,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,LIE,Liechtenstein,EURO
+Liechtenstein,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,LIE,Liechtenstein,EURO
+Lithuania,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,LTU,Lithuania,EURO
+Lithuania,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,LTU,Lithuania,EURO
+Luxembourg,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,LUX,Luxembourg,EURO
+Luxembourg,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,LUX,Luxembourg,EURO
+Madagascar,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,MDG,Madagascar,AFRO
+Madagascar,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MDG,Madagascar,AFRO
+Malawi,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MWI,Malawi,AFRO
+Malawi,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MWI,Malawi,AFRO
+Malaysia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MYS,Malaysia,WPRO
+Malaysia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,MYS,Malaysia,WPRO
+Maldives,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MDV,Maldives,SEARO
+Maldives,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MDV,Maldives,SEARO
+Mali,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,MLI,Mali,AFRO
+Mali,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,MLI,Mali,AFRO
+Malta,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MLT,Malta,EURO
+Malta,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MLT,Malta,EURO
+Marshall Islands,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MHL,Marshall Islands,WPRO
+Marshall Islands,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MHL,Marshall Islands,WPRO
+Mauritania,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MRT,Mauritania,AFRO
+Mauritania,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MRT,Mauritania,AFRO
+Mauritius,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MUS,Mauritius,AFRO
+Mauritius,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MUS,Mauritius,AFRO
+Mexico,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MEX,Mexico,AMRO
+Mexico,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MEX,Mexico,AMRO
+Micronesia (Federated States of Micronesia),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,FSM,Micronesia (Federated States of),WPRO
+Micronesia (Federated States of Micronesia),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,FSM,Micronesia (Federated States of),WPRO
+Monaco,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MCO,Monaco,EURO
+Monaco,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MCO,Monaco,EURO
+Mongolia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MNG,Mongolia,WPRO
+Mongolia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MNG,Mongolia,WPRO
+Montenegro,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,MNE,Montenegro,EURO
+Montenegro,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,MNE,Montenegro,EURO
+Morocco,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MAR,Morocco,EMRO
+Morocco,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,MAR,Morocco,EMRO
+Mozambique,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MOZ,Mozambique,AFRO
+Mozambique,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MOZ,Mozambique,AFRO
+Myanmar (Burma),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,MMR,Myanmar,SEARO
+Myanmar (Burma),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MMR,Myanmar,SEARO
+Namibia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NAM,Namibia,AFRO
+Namibia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NAM,Namibia,AFRO
+Nauru,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NRU,Nauru,WPRO
+Nauru,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NRU,Nauru,WPRO
+Nepal,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NPL,Nepal,SEARO
+Nepal,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NPL,Nepal,SEARO
+Netherlands,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NLD,Netherlands,EURO
+Netherlands,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NLD,Netherlands,EURO
+New Zealand,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NZL,New Zealand,WPRO
+New Zealand,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NZL,New Zealand,WPRO
+Nicaragua,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,NIC,Nicaragua,AMRO
+Nicaragua,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,NIC,Nicaragua,AMRO
+Niger,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NER,Niger,AFRO
+Niger,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NER,Niger,AFRO
+Nigeria,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NGA,Nigeria,AFRO
+Nigeria,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Provides Incorrect Information,State level,NGA,Nigeria,AFRO
+Niue,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NIU,Niue,WPRO
+Niue,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,NIU,Niue,WPRO
+North Macedonia (Macedonia; FYROM),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MKD,North Macedonia,EURO
+North Macedonia (Macedonia; FYROM),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MKD,North Macedonia,EURO
+Norway,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,NOR,Norway,EURO
+Norway,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest including,No: GAI Provides More Information,,NOR,Norway,EURO
+Oman,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,OMN,Oman,EMRO
+Oman,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,OMN,Oman,EMRO
+Pakistan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,PAK,Pakistan,EMRO
+Pakistan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Provides Incorrect Information,province level laws,PAK,Pakistan,EMRO
+Palau,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,PLW,Palau,WPRO
+Palau,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,PLW,Palau,WPRO
+Panama,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,PAN,Panama,AMRO
+Panama,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,PAN,Panama,AMRO
+Papua New Guinea,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,PNG,Papua New Guinea,WPRO
+Papua New Guinea,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,PNG,Papua New Guinea,WPRO
+Paraguay,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,PRY,Paraguay,AMRO
+Paraguay,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,PRY,Paraguay,AMRO
+Peru,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,PER,Peru,AMRO
+Peru,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,PER,Peru,AMRO
+Philippines,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,PHL,Philippines,WPRO
+Philippines,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,PHL,Philippines,WPRO
+Poland,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,POL,Poland,EURO
+Poland,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,POL,Poland,EURO
+Portugal,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,PRT,Portugal,EURO
+Portugal,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,PRT,Portugal,EURO
+Qatar,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,QAT,Qatar,EMRO
+Qatar,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,QAT,Qatar,EMRO
+Republic of Korea (South Korea; ROK),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,"Information is out of date - law last updated in December 2023, refers to information from the 2015 update. Very confusing at first",KOR,Republic of Korea,WPRO
+Republic of Korea (South Korea; ROK),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,KOR,Republic of Korea,WPRO
+Republic of Moldova,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,MDA,Republic of Moldova,EURO
+Republic of Moldova,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,MDA,Republic of Moldova,EURO
+Romania,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,ROU,Romania,EURO
+Romania,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ROU,Romania,EURO
+Russian Federation,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,RUS,Russian Federation,EURO
+Russian Federation,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Provides Incorrect Information,"Theoretically, individual regional authorities could mandate one, but it hasn't been done and there isn't a federal law stating this, just some plans for covid",RUS,Russian Federation,EURO
+Rwanda,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,RWA,Rwanda,AFRO
+Rwanda,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,RWA,Rwanda,AFRO
+Saint Kitts and Nevis (St Kitts and Nevis),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,KNA,Saint Kitts and Nevis,AMRO
+Saint Kitts and Nevis (St Kitts and Nevis),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,KNA,Saint Kitts and Nevis,AMRO
+Saint Lucia (St Lucia),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LCA,Saint Lucia,AMRO
+Saint Lucia (St Lucia),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,LCA,Saint Lucia,AMRO
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,VCT,Saint Vincent and the Grenadines,AMRO
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,VCT,Saint Vincent and the Grenadines,AMRO
+Samoa,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,"Incorrect name - provides the nickname for the law, which makes it impossible to find ",WSM,Samoa,WPRO
+Samoa,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,WSM,Samoa,WPRO
+San Marino,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,SMR,San Marino,EURO
+San Marino,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,SMR,San Marino,EURO
+São Tomé and Príncipe,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,STP,Sao Tome and Principe,AFRO
+São Tomé and Príncipe,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,STP,Sao Tome and Principe,AFRO
+Saudi Arabia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,SAU,Saudi Arabia,EMRO
+Saudi Arabia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SAU,Saudi Arabia,EMRO
+Senegal,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SEN,Senegal,AFRO
+Senegal,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SEN,Senegal,AFRO
+Serbia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,SRB,Serbia,EURO
+Serbia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,SRB,Serbia,EURO
+Seychelles,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SYC,Seychelles,AFRO
+Seychelles,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Provides More Information,,SYC,Seychelles,AFRO
+Sierra Leone,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SLE,Sierra Leone,AFRO
+Sierra Leone,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,SLE,Sierra Leone,AFRO
+Singapore,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,SGP,Singapore,WPRO
+Singapore,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,SGP,Singapore,WPRO
+Slovakia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,SVK,Slovakia,EURO
+Slovakia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,SVK,Slovakia,EURO
+Solomon Islands,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SLB,Solomon Islands,WPRO
+Solomon Islands,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SLB,Solomon Islands,WPRO
+Somalia,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Provides Incorrect Information,,SOM,Somalia,EMRO
+Somalia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SOM,Somalia,EMRO
+South Africa,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ZAF,South Africa,AFRO
+South Africa,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ZAF,South Africa,AFRO
+South Sudan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SSD,South Sudan,AFRO
+South Sudan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SSD,South Sudan,AFRO
+Spain,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,ESP,Spain,EURO
+Spain,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ESP,Spain,EURO
+Sri Lanka,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,LKA,Sri Lanka,SEARO
+Sri Lanka,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,LKA,Sri Lanka,SEARO
+Sudan,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,No: GAI Misses Information,,SDN,Sudan,EMRO
+Sudan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,SDN,Sudan,EMRO
+Suriname,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SUR,Suriname,AMRO
+Suriname,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SUR,Suriname,AMRO
+Sweden,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SWE,Sweden,EURO
+Sweden,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SWE,Sweden,EURO
+Switzerland,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,CHE,Switzerland,EURO
+Switzerland,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,Mandatory vaccinations only for certain occupations,CHE,Switzerland,EURO
+Syrian Arab Republic (Syria),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,SYR,Syrian Arab Republic,EMRO
+Syrian Arab Republic (Syria),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,SYR,Syrian Arab Republic,EMRO
+Tajikistan,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,TJK,Tajikistan,EURO
+Tajikistan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,TJK,Tajikistan,EURO
+Thailand,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,THA,Thailand,SEARO
+Thailand,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,THA,Thailand,SEARO
+Timor-Leste,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,TLS,Timor-Leste,SEARO
+Timor-Leste,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,TLS,Timor-Leste,SEARO
+Togo,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,TGO,Togo,AFRO
+Togo,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,TGO,Togo,AFRO
+Tonga,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,TON,Tonga,WPRO
+Tonga,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,TON,Tonga,WPRO
+Trinidad and Tobago,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,TTO,Trinidad and Tobago,AMRO
+Trinidad and Tobago,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,TTO,Trinidad and Tobago,AMRO
+Tunisia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,TUN,Tunisia,EMRO
+Tunisia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,decree only for covid,TUN,Tunisia,EMRO
+Türkiye (Turkey),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,TUR,Turkey,EURO
+Türkiye (Turkey),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",New document identified - suggest excluding,No: GAI Provides Incorrect Information,States that a repealed law on Smallpox is still enforceable,TUR,Turkey,EURO
+Turkmenistan,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,TKM,Turkmenistan,EURO
+Turkmenistan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,TKM,Turkmenistan,EURO
+Tuvalu,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,TUV,Tuvalu,WPRO
+Tuvalu,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,TUV,Tuvalu,WPRO
+Uganda,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,UGA,Uganda,AFRO
+Uganda,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,UGA,Uganda,AFRO
+Ukraine,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,UKR,Ukraine,EURO
+Ukraine,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,UKR,Ukraine,EURO
+United Arab Emirates (UAE),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ARE,United Arab Emirates,EMRO
+United Arab Emirates (UAE),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,ARE,United Arab Emirates,EMRO
+United Kingdom of Great Britain and Northern Ireland (UK),1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,GBR,United Kingdom of Great Britain and Northern Ireland,EURO
+United Kingdom of Great Britain and Northern Ireland (UK),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,GBR,United Kingdom of Great Britain and Northern Ireland,EURO
+United Republic of Tanzania,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,TZA,United Republic of Tanzania,AFRO
+United Republic of Tanzania,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,TZA,United Republic of Tanzania,AFRO
+United States of America (USA),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Provides Incorrect Information,,USA,United States of America,AMRO
+United States of America (USA),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,Yes,,USA,United States of America,AMRO
+Uruguay,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,URY,Uruguay,AMRO
+Uruguay,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,URY,Uruguay,AMRO
+Uzbekistan,1. Is there a law that requires routine childhood vaccination in ? ,New document identified - suggest excluding,No: GAI Provides Incorrect Information,,UZB,Uzbekistan,EURO
+Uzbekistan,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,UZB,Uzbekistan,EURO
+Vanuatu,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,VUT,Vanuatu,WPRO
+Vanuatu,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,VUT,Vanuatu,WPRO
+Venezuela (Bolivarian Republic of),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,VEN,Venezuela (Bolivarian Republic of),AMRO
+Venezuela (Bolivarian Republic of),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,VEN,Venezuela (Bolivarian Republic of),AMRO
+Viet Nam (Vietnam),1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,VNM,Viet Nam,WPRO
+Viet Nam (Vietnam),"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,VNM,Viet Nam,WPRO
+Yemen,1. Is there a law that requires routine childhood vaccination in ? ,No relevant documents identified,Yes,,YEM,Yemen,EMRO
+Yemen,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",No relevant documents identified,No: GAI Misses Information,,YEM,Yemen,EMRO
+Zambia,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,No: GAI Misses Information,,ZMB,Zambia,AFRO
+Zambia,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,No: GAI Misses Information,,ZMB,Zambia,AFRO
+Zimbabwe,1. Is there a law that requires routine childhood vaccination in ? ,Identified document(s) already in Airtable,Yes,,ZWE,Zimbabwe,AFRO
+Zimbabwe,"2. In the event of an emergency, can the government require a citizen to receive a vaccination in?",Identified document(s) already in Airtable,Yes,,ZWE,Zimbabwe,AFRO
